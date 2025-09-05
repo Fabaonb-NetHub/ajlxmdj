@@ -21,7 +21,7 @@ env:
  scwj: 1
  
  # 备恢文件
- bhwj: 1
+ bhwj: 0
  bhwjmz: worker-vless-proxyip.js
  # 获取上游
  hqsy: 1
